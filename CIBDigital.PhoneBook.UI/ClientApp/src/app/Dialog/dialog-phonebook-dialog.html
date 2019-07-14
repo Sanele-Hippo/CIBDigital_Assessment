@@ -1,0 +1,19 @@
+<h1 mat-dialog-title class="text-center">Add to Phone Book</h1>
+<div mat-dialog-content>
+  <p>Name:</p>
+  <mat-form-field style="width: 100%;">
+    <input matInput  [(ngModel)]="phoneBook.name">
+    <mat-icon matSuffix>mode_edit</mat-icon>
+  </mat-form-field>
+  <p>Phone Number:</p>  
+
+  <mat-form-field style="width: 100%;">
+    <input type="tel" maxlength="10" matInput [(ngModel)]="phoneBook.phoneNumber">
+    <mat-icon matSuffix>mode_edit</mat-icon>
+  </mat-form-field>
+</div>
+
+<div mat-dialog-actions>
+  <button mat-raised-button color="primary" (click)="addNewEntry(phoneBook)">Add</button>
+  <button mat-raised-button color="warn" [mat-dialog-close] cdkFocusInitial style="float: right;">Cancel</button>
+</div>

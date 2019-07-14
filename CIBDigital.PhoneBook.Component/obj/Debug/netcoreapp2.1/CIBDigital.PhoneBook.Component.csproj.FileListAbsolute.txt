@@ -1,0 +1,12 @@
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.deps.json
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.dll
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.csprojAssemblyReference.cache
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.csproj.CoreCompileInputs.cache
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.AssemblyInfoInputs.cache
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.AssemblyInfo.cs
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.pdb
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.dll
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.pdb
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.csproj.CopyComplete
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.dll
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook.Component\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.Component.pdb

@@ -1,0 +1,9 @@
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.deps.json
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.dll
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.AssemblyInfoInputs.cache
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.AssemblyInfo.cs
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\bin\Debug\netcoreapp2.1\CIBDigital.PhoneBook.pdb
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.dll
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.pdb
+C:\Users\CTSS\Desktop\ABSA\CIBDigital.PhoneBook\CIBDigital.PhoneBook\obj\Debug\netcoreapp2.1\CIBDigital.PhoneBook.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CIBDigital.PhoneBook.Component\CIBDigital.PhoneBook.Component.csproj" />
+    <ProjectReference Include="..\CIBDigital.PhoneBook\CIBDigital.PhoneBook.csproj" />
+  </ItemGroup>
+
+</Project>
